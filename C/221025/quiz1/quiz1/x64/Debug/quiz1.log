@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\dfwtt\OneDrive\바탕 화면\git\university_class\C\221025\quiz1\quiz1\main.c(9,24): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\dfwtt\OneDrive\바탕 화면\git\university_class\C\221025\quiz1\quiz1\main.c(9,24): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\dfwtt\OneDrive\바탕 화면\git\university_class\C\221025\quiz1\quiz1\main.c(20,8): warning C4087: 'calc': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
+  quiz1.vcxproj -> C:\Users\dfwtt\OneDrive\바탕 화면\git\university_class\C\221025\quiz1\x64\Debug\quiz1.exe
